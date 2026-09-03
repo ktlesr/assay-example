@@ -1,1 +1,5 @@
-
+{
+  "name": "hello-manifest",
+  "version": "0.1.0",
+  "description": "Tiny skill used to prove the Assay action runs from another repository."
+}
